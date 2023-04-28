@@ -1,0 +1,16 @@
+{
+  "name": "rng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lacerba",
+    "rng",
+    "enalotto"
+  ],
+  "author": "Valcat92",
+  "license": "ISC"
+}
