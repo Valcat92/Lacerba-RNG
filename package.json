@@ -12,5 +12,8 @@
     "enalotto"
   ],
   "author": "Valcat92",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.2"
+  }
 }
